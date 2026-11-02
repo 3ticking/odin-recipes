@@ -3,18 +3,31 @@
 ## Images
 Images used in this project:
 
-+ **Image name:** Sourdough_Bread.jpg
-+ **Author:** Agelaia
-+ **Source:** [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:Sourdough_Bread_Loaf.jpg)
-+ **License:** CC BY 4.0
-+ **Changes:** None
++ **Sourdough bread image:**
+    + **Image name:** Sourdough_Bread.jpg
+    + **Author:** Agelaia
+    + **Source:** [commons.wikimedia](https://commons.wikimedia.org/wiki/File:Sourdough_Bread_Loaf.jpg)
+    + **License:** CC BY 4.0
+    + **Changes:** None
++ **Chocolate chip cookie image:**
+    + **Image name:** Chocolate_chip_cookie.jpg
+    + **Author:** Ewelina Podrez-Siama
+    + **Source:** [flickr](https://www.flickr.com/photos/197996902@N06/52774783159/)
+    + **License:** CC BY 2.0
+    + **Changes:** None
+
 
 ## Recipes
 These recipes were inspired by:
 
-+ **Original recipe:** Chef John's Sourdough Bread
-+ **Author:** John Mitzewich
-+ **Source:** [allrecipes.com](https://www.allrecipes.com/recipe/260540/chef-johns-sourdough-bread/)
++ **Sourdough bread recipe:** 
+    + **Original recipe:** Chef John's Sourdough Bread
+    + **Author:** John Mitzewich
+    + **Source:** [allrecipes](https://www.allrecipes.com/recipe/260540/chef-johns-sourdough-bread/)
++ **Chocolate chip cookie recipe:**
+    + **Original recipe:** Best Chocolate Chip Cookies
+    + **Author:** Dora
+    + **Source:** [allrecipes](https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/)
 
 This project is an educational project and is not affiliated with Allrecipes or the original recipe author.
 
