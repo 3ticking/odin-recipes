@@ -15,6 +15,12 @@ Images used in this project:
     + **Source:** [flickr](https://www.flickr.com/photos/197996902@N06/52774783159/)
     + **License:** [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
     + **Changes:** None
++ **Spaghetti bolognese image:**
+    + **Image name:** Spaghetti_bolognese.jpg
+    + **Author:** ImipolexG
+    + **Source:** [flickr](hhttps://www.flickr.com/photos/imipolexg/558697350/)
+    + **License:** [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en)
+    + **Changes:** None
 
 
 ## Recipes
@@ -28,6 +34,10 @@ These recipes were inspired by:
     + **Original recipe:** Best Chocolate Chip Cookies
     + **Author:** Dora
     + **Source:** [allrecipes](https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/)
++ **Spaghetti bolognese recipe:**
+    + **Original recipe:** Bolognese Sauce
+    + **Author:** Kimber
+    + **Source:** [allrecipes](https://www.allrecipes.com/recipe/18443/bolognese-sauce/)
 
 This project is an educational project and is not affiliated with Allrecipes or the original recipe author.
 
