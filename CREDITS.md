@@ -7,13 +7,13 @@ Images used in this project:
     + **Image name:** Sourdough_Bread.jpg
     + **Author:** Agelaia
     + **Source:** [commons.wikimedia](https://commons.wikimedia.org/wiki/File:Sourdough_Bread_Loaf.jpg)
-    + **License:** CC BY 4.0
+    + **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
     + **Changes:** None
 + **Chocolate chip cookie image:**
     + **Image name:** Chocolate_chip_cookie.jpg
-    + **Author:** Ewelina Podrez-Siama
+    + **Author:** [Ewelina Podrez-Siama](https://ms-fox.pl)
     + **Source:** [flickr](https://www.flickr.com/photos/197996902@N06/52774783159/)
-    + **License:** CC BY 2.0
+    + **License:** [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
     + **Changes:** None
 
 
